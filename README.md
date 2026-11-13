@@ -12,9 +12,10 @@ Hello! I'm Ancient Kira, a developer for the not-so-famous Minecraft mod MCArem 
 I tried posting it on Modrinth and it has indefinitely been "Under review" there, like some abandoned project. Therefore, the project is only hosted on CurseForge.
 
 ## Contact and profiles
-YouTube: https://www.youtube.com/@AncientKira
-Reddit: https://www.reddit.com/user/Itchy-Theory2927/
-CurseForge: https://www.curseforge.com/members/ancientkira/
+- YouTube: https://www.youtube.com/@AncientKira
+- Reddit: https://www.reddit.com/user/Itchy-Theory2927/
+- CurseForge: https://www.curseforge.com/members/ancientkira/
+- GitLab: 
 
 ## Credits
 Profile picture made by Zulimations. https://www.reddit.com/r/mac/comments/dtpac6/i_made_a_remastered_happy_mac_logo_feel_free_to/
