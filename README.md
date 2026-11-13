@@ -15,7 +15,8 @@ I tried posting it on Modrinth and it has indefinitely been "Under review" there
 - YouTube: https://www.youtube.com/@AncientKira
 - Reddit: https://www.reddit.com/user/Itchy-Theory2927/
 - CurseForge: https://www.curseforge.com/members/ancientkira/
-- GitLab: 
+- GitLab: https://gitlab.com/ancientkira
+- XDA: https://xdaforums.com/m/ancientkira21.13293538/
 
 ## Credits
 Profile picture made by Zulimations. https://www.reddit.com/r/mac/comments/dtpac6/i_made_a_remastered_happy_mac_logo_feel_free_to/
